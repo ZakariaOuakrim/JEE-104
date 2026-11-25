@@ -1,0 +1,10 @@
+entity\Adresse.class
+entity\Info.class
+dao\IDao.class
+dao\PersonneDao.class
+dao\Dao.class
+entity\Activity.class
+test\Main.class
+entity\Personne.class
+dao\InfoDao.class
+dao\ActivityDao.class
